@@ -8,3 +8,4 @@ pyinstaller
 astor
 fonttools
 tensorflow==1.15.0
+protobuf==3.20.3
