@@ -13,7 +13,7 @@ class VCodeMarker:
         self.index = 0
         self.total = 0
         self.image_old = 'E:\\Downloads\\xhu-jwc\\vcode-failed\\'
-        self.image_new = 'E:\\Downloads\\xhu-jwc\\mark\\'
+        self.image_new = 'D:\\PycharmProjects\\validate\\'
 
         self.window = Tk()
         sw = self.window.winfo_screenwidth()
