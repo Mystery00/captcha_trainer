@@ -1,3 +1,5 @@
+tensorflow-gpu==2.6.0
+keras==2.6.0
 pillow
 opencv-python-headless
 numpy
@@ -7,4 +9,3 @@ colorama
 pyinstaller
 astor
 fonttools
-#tensorflow-gpu
